@@ -1,0 +1,15 @@
+{
+  "npm": true,
+  "moduleResolution": "node",
+  "lint": {
+    "rules": [
+      "polymer-3"
+    ]
+  },
+  "entrypoint": "demo/index.html",
+  "sources": [
+    "src/**/*",
+    "images/**/*"
+  ]
+}
+
