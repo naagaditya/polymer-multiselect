@@ -6,6 +6,13 @@
       "polymer-3"
     ]
   },
+  "builds": [
+    {
+      "js": {
+        "compile": true
+      }
+    }
+  ],
   "entrypoint": "demo/index.html",
   "sources": [
     "src/**/*",
